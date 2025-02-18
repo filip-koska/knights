@@ -1,2 +1,2 @@
 # knights
-An API for a simulated knight tournament allowing compile-time computation
+An API for a simulated knight tournament allowing compile-time computations
